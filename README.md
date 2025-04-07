@@ -23,3 +23,6 @@ This project presents a basic yet functional security system prototype utilizing
 - Sonar Sensor (e.g., HC-SR04): This sensor emits ultrasonic waves and measures the time it takes for the echo to return, allowing you to calculate the distance to an object. It's excellent for detecting movement within a certain range.
 
 - Servo Motor: A motor that can rotate to a specific angle. You can use it to pan the sonar sensor for a wider field of view or to act as a physical indicator (e.g., pointing towards the detected motion).
+
+
+
