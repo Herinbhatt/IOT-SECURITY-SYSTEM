@@ -26,5 +26,5 @@ This project presents a basic yet functional security system prototype utilizing
 
 ![Image](https://github.com/user-attachments/assets/397ff469-8cf3-452e-bdf5-a71f5bc159ce)
 
-***Potential Functionality Ideas:***
+****Potential Functionality Ideas:****
 
