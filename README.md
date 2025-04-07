@@ -44,3 +44,7 @@ This project presents a basic yet functional security system prototype utilizing
 
 ![Image](https://github.com/user-attachments/assets/38382ca8-85c8-468e-a53a-44b45b4c0082)
 
+**The following is the real image of my project**
+
+![Image](https://github.com/user-attachments/assets/52fa5c33-f3ce-4cba-bfcc-374e1d9f47cf)
+
