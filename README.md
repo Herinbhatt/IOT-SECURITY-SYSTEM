@@ -28,3 +28,5 @@ This project presents a basic yet functional security system prototype utilizing
 
 ****Potential Functionality Ideas:****
 
+**Understanding the Core Components:Understanding the Core Components:**
+
