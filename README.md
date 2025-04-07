@@ -40,7 +40,7 @@ This project presents a basic yet functional security system prototype utilizing
 
 # OUTPUT OF TASK
 
-**I have used processing software to display the object detected by a sonar sensor **
+** I have used processing software to display the object detected by a sonar sensor **
 
 ![Image](https://github.com/user-attachments/assets/38382ca8-85c8-468e-a53a-44b45b4c0082)
 
