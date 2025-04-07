@@ -30,3 +30,8 @@ This project presents a basic yet functional security system prototype utilizing
 
 **Understanding the Core Components:Understanding the Core Components:**
 
+- Motion Detection with Direction Indication:
+-- The sonar sensor continuously measures the distance in a fixed direction.
+--  If the distance suddenly decreases (indicating an object has moved closer), the Arduino triggers the servo motor to rotate and point towards the direction of the detected motion.
+You could potentially add an LED or buzzer to provide a visual or auditory alert.
+
