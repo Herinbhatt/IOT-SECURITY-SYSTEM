@@ -24,5 +24,5 @@ This project presents a basic yet functional security system prototype utilizing
 
 - Servo Motor: A motor that can rotate to a specific angle. You can use it to pan the sonar sensor for a wider field of view or to act as a physical indicator (e.g., pointing towards the detected motion).
 
-
+![Image](https://github.com/user-attachments/assets/397ff469-8cf3-452e-bdf5-a71f5bc159ce)
 
